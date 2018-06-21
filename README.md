@@ -27,7 +27,5 @@ We wanted to create something that could bring people together over the love of 
 
 ##
 ### Author's
-* [Mridula](https://github.com/MridulaUdayaShankar)
-* [James](https://github.com/ellisjames)
 * [Junior](https://github.com/jsalamanca23)
 * [Connor](https://github.com/Connor218)
